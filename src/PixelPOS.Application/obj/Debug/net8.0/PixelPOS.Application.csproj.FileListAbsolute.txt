@@ -1,0 +1,15 @@
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Application\bin\Debug\net8.0\PixelPOS.Application.deps.json
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Application\bin\Debug\net8.0\PixelPOS.Application.dll
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Application\bin\Debug\net8.0\PixelPOS.Application.pdb
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Application\bin\Debug\net8.0\PixelPOS.Domain.dll
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Application\bin\Debug\net8.0\PixelPOS.Domain.pdb
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Application\obj\Debug\net8.0\PixelPOS.Application.csproj.AssemblyReference.cache
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Application\obj\Debug\net8.0\PixelPOS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Application\obj\Debug\net8.0\PixelPOS.Application.AssemblyInfoInputs.cache
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Application\obj\Debug\net8.0\PixelPOS.Application.AssemblyInfo.cs
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Application\obj\Debug\net8.0\PixelPOS.Application.csproj.CoreCompileInputs.cache
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Application\obj\Debug\net8.0\PixelPOS.F7B2FFA8.Up2Date
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Application\obj\Debug\net8.0\PixelPOS.Application.dll
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Application\obj\Debug\net8.0\refint\PixelPOS.Application.dll
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Application\obj\Debug\net8.0\PixelPOS.Application.pdb
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Application\obj\Debug\net8.0\ref\PixelPOS.Application.dll

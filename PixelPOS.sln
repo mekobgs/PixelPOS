@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AF536EEE-AF01-4667-9B62-0857D16FF0F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelPOS.API", "src\PixelPOS.API\PixelPOS.API.csproj", "{570AAD13-86C3-4D33-BD51-A03E67FB5668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelPOS.Domain", "src\PixelPOS.Domain\PixelPOS.Domain.csproj", "{2AB79B78-EBB6-44C8-B349-7D4DFC6861E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelPOS.Application", "src\PixelPOS.Application\PixelPOS.Application.csproj", "{A4DDD328-48DE-440D-B179-9062DD248226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelPOS.Infrastructure", "src\PixelPOS.Infrastructure\PixelPOS.Infrastructure.csproj", "{C6B3C504-1BF5-4681-A789-0A668FFA63C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelPOS.BlazorServer", "src\PixelPOS.BlazorServer\PixelPOS.BlazorServer.csproj", "{BC776790-A39A-4E01-B0B5-3151E54C2416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{570AAD13-86C3-4D33-BD51-A03E67FB5668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570AAD13-86C3-4D33-BD51-A03E67FB5668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570AAD13-86C3-4D33-BD51-A03E67FB5668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570AAD13-86C3-4D33-BD51-A03E67FB5668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB79B78-EBB6-44C8-B349-7D4DFC6861E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB79B78-EBB6-44C8-B349-7D4DFC6861E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB79B78-EBB6-44C8-B349-7D4DFC6861E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB79B78-EBB6-44C8-B349-7D4DFC6861E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4DDD328-48DE-440D-B179-9062DD248226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4DDD328-48DE-440D-B179-9062DD248226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4DDD328-48DE-440D-B179-9062DD248226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4DDD328-48DE-440D-B179-9062DD248226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B3C504-1BF5-4681-A789-0A668FFA63C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B3C504-1BF5-4681-A789-0A668FFA63C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B3C504-1BF5-4681-A789-0A668FFA63C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B3C504-1BF5-4681-A789-0A668FFA63C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC776790-A39A-4E01-B0B5-3151E54C2416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC776790-A39A-4E01-B0B5-3151E54C2416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC776790-A39A-4E01-B0B5-3151E54C2416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC776790-A39A-4E01-B0B5-3151E54C2416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{570AAD13-86C3-4D33-BD51-A03E67FB5668} = {AF536EEE-AF01-4667-9B62-0857D16FF0F4}
+		{2AB79B78-EBB6-44C8-B349-7D4DFC6861E5} = {AF536EEE-AF01-4667-9B62-0857D16FF0F4}
+		{A4DDD328-48DE-440D-B179-9062DD248226} = {AF536EEE-AF01-4667-9B62-0857D16FF0F4}
+		{C6B3C504-1BF5-4681-A789-0A668FFA63C5} = {AF536EEE-AF01-4667-9B62-0857D16FF0F4}
+		{BC776790-A39A-4E01-B0B5-3151E54C2416} = {AF536EEE-AF01-4667-9B62-0857D16FF0F4}
+	EndGlobalSection
+EndGlobal

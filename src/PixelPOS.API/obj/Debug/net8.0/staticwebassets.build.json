@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d6jsC3iSWTOCRLrd+Nd+9BKk+0YSRxLKmBBkRnzL+sQ=",
+  "Source": "PixelPOS.API",
+  "BasePath": "_content/PixelPOS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

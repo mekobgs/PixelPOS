@@ -1,0 +1,11 @@
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Domain\bin\Debug\net8.0\PixelPOS.Domain.deps.json
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Domain\bin\Debug\net8.0\PixelPOS.Domain.dll
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Domain\bin\Debug\net8.0\PixelPOS.Domain.pdb
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Domain\obj\Debug\net8.0\PixelPOS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Domain\obj\Debug\net8.0\PixelPOS.Domain.AssemblyInfoInputs.cache
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Domain\obj\Debug\net8.0\PixelPOS.Domain.AssemblyInfo.cs
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Domain\obj\Debug\net8.0\PixelPOS.Domain.csproj.CoreCompileInputs.cache
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Domain\obj\Debug\net8.0\PixelPOS.Domain.dll
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Domain\obj\Debug\net8.0\refint\PixelPOS.Domain.dll
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Domain\obj\Debug\net8.0\PixelPOS.Domain.pdb
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Domain\obj\Debug\net8.0\ref\PixelPOS.Domain.dll

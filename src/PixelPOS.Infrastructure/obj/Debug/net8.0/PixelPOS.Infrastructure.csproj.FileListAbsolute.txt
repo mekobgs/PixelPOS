@@ -1,0 +1,17 @@
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\bin\Debug\net8.0\PixelPOS.Infrastructure.deps.json
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\bin\Debug\net8.0\PixelPOS.Infrastructure.dll
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\bin\Debug\net8.0\PixelPOS.Infrastructure.pdb
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\bin\Debug\net8.0\PixelPOS.Application.dll
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\bin\Debug\net8.0\PixelPOS.Domain.dll
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\bin\Debug\net8.0\PixelPOS.Application.pdb
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\bin\Debug\net8.0\PixelPOS.Domain.pdb
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\obj\Debug\net8.0\PixelPOS.Infrastructure.csproj.AssemblyReference.cache
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\obj\Debug\net8.0\PixelPOS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\obj\Debug\net8.0\PixelPOS.Infrastructure.AssemblyInfoInputs.cache
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\obj\Debug\net8.0\PixelPOS.Infrastructure.AssemblyInfo.cs
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\obj\Debug\net8.0\PixelPOS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\obj\Debug\net8.0\PixelPOS.4B55F984.Up2Date
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\obj\Debug\net8.0\PixelPOS.Infrastructure.dll
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\obj\Debug\net8.0\refint\PixelPOS.Infrastructure.dll
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\obj\Debug\net8.0\PixelPOS.Infrastructure.pdb
+C:\Companies\Pixeldevs\PixelPOS\src\PixelPOS.Infrastructure\obj\Debug\net8.0\ref\PixelPOS.Infrastructure.dll
